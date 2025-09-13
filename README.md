@@ -17,6 +17,7 @@ To use it in your Maven build add:
 ```
 
 and the dependency:
+Hi good 
 
 ```xml
 	<dependency>
